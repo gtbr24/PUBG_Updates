@@ -6,8 +6,8 @@ _version = "0.2-krabbetein"
 
 # webhook setup
 username = 'PUBG webhook'
-id = ''
-token = ''
+id = '414968460712345609'
+token = '53Vi1o5E8mzON8_Nr3oM5Gw_nj1gwQ_uuB7yewa5nwiktkSfxExe4yUuE7OCWIAD96Cs'
 
 # sqlite3 setup
 conn = sqlite3.connect('pubg.db', detect_types=sqlite3.PARSE_DECLTYPES|sqlite3.PARSE_COLNAMES)
